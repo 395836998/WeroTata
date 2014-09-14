@@ -220,9 +220,33 @@
 /*****/
 .group_3
 {
-	background: #35AFBA;
+	/*background: #35AFBA;*/
 	padding: 2em 0em 2em 0em;
 }
+
+
+.chi{
+	background: #FD7272;
+}
+.cheng{
+	background: #FFB76E;
+}
+.huang{
+	background: #EEEE54;
+}
+.lv{
+	background: #78D187;
+}
+.qing{
+	background: #3ACCDA;
+}
+.lan{
+	background: #7777F5;
+}
+.zi{
+	background: #A862EE;
+}
+
 .group_3_text
 {
 	width: 62%;
