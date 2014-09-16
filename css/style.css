@@ -60,6 +60,7 @@ body {
 	color:#6C6C6C;
 	padding:3em 0em 4em 0em;
 	text-align: center;
+	line-height: 1.9em;
 }
 .centertxt {
 	width: 85%;
@@ -151,7 +152,7 @@ padding: 4em 0em;
 }
 
 .timeline-label p {
-    font-size: 1.09em;
+    font-size: 1em;
     color:#696969;
     padding: 0.5em 0em;
     line-height: 1.7em;
